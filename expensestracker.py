@@ -2,6 +2,7 @@
 # The user should be able to input their expenses and check it.
 # As I progress here I will add the function to add income to compare it.
 
+import tkinter as tk
 # Create variable to store the expenses
 expenses = [] 
 
@@ -55,17 +56,26 @@ def view_expense() :
 while True : 
     print("""This is my expense tracker app. Here are your options :  
 1 - Add expenses 
-2 - Check expenses """)
+2 - Check expenses
+3 - Exit """)
 
     answer = int(input("Tell me the option : "))
+    try : 
+        if answer == 1 :
+            add_expense()
+        elif answer == 2 :
+            view_expense()
+        elif answer == 3 : 
+            print("Goodbye!")
+        else :
+         print("Invalid option")
+    except ValueError :
+        print("Invalid option")
 
-
-    if answer == 1 :
-        add_expense()
-    elif answer == 2 :
+# Ask user if he wants to run the program again 
+    run_again = input("Do you wish to continue? (yes/no): ").strip().lower()
+    if run_again in ("yes", "y"):
         view_expense()
-    else:
-        print("Goodbye!")
-        break
-
-
+    else : 
+       print("Bye!")
+       break
