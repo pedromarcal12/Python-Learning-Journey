@@ -2,80 +2,109 @@
 # The user should be able to input their expenses and check it.
 # As I progress here I will add the function to add income to compare it.
 
-import tkinter as tk
+from tkinter import *
 # Create variable to store the expenses
-expenses = [] 
+# expenses = [] 
 
 # Function to add expenses
-def add_expense() : 
+#def add_expense() : 
 # Variables for data needed
-    date = input("Which month did you spend ")
-    category = input("What you spend the food on. I.e : food, transport ")
-    amount = float(input("How much have you spent "))
+    #date = input("Which month did you spend ")
+    #category = input("What you spend the food on. I.e : food, transport ")
+    #amount = float(input("How much have you spent "))
     
 # Dictionary to store the data 
-    expense = {
-    "date" : date,
-    "category" : category,
-    "amount" : amount
-}
+    #expense = {
+    #"date" : date,
+    #"category" : category,
+    #"amount" : amount
+#}
 
 # Making the expenses dictionary global to reuse it in the next function
-    expenses.append(expense)
+    #expenses.append(expense)
 
 
 # Method for viewing the expenses in total and monthly
-def view_expense() : 
+#def view_expense() : 
     # If no data in expenses, show a message
-    if len(expenses) == 0 :
-        print("Nothing added yet.")
-        return
+    #if len(expenses) == 0 :
+        #print("Nothing added yet.")
+        #return
 
     # If data in expenses, show the expenses
-    else :
-        print("Here are your monthly expenses")
-        print(expenses)
+    #else :
+        #print("Here are your monthly expenses")
+        #print(expenses)
 
     # Creating the monthly view for expenses
-    monthly_expenses = {}   
-    for i, exp in enumerate(expenses, start = 1) :
-        print(f"{i}. {exp['date']} - {exp['category']} - {exp['amount']}")
+    #monthly_expenses = {}   
+    #for i, exp in enumerate(expenses, start = 1) :
+        #print(f"{i}. {exp['date']} - {exp['category']} - {exp['amount']}")
 
     # Loop through the expenses and add the amount into the monthly expenses variable
-        month = exp["date"]
-        if month in monthly_expenses :
-            monthly_expenses[month] += exp["amount"]
-        else :
-            monthly_expenses[month] = exp["amount"]
-    print("Expenses by month:")       
-    for month, amount in monthly_expenses.items() :
-        print(f"{month}: {amount}")
+        #month = exp["date"]
+        #if month in monthly_expenses :
+            #monthly_expenses[month] += exp["amount"]
+        #else :
+            #monthly_expenses[month] = exp["amount"]
+    #print("Expenses by month:")       
+    #for month, amount in monthly_expenses.items() :
+        #print(f"{month}: {amount}")
 
 
 # Main program with while loop to ask if user wants to run again
-while True : 
-    print("""This is my expense tracker app. Here are your options :  
+#while True : 
+    #print("""This is my expense tracker app. Here are your options :  
+#1 - Add expenses 
+#2 - Check expenses
+#3 - Exit """)
+
+    #answer = int(input("Tell me the option : "))
+    #try : 
+        #if answer == 1 :
+            #add_expense()
+        #elif answer == 2 :
+            #view_expense()
+        #elif answer == 3 : 
+            #print("Goodbye!")
+        #else :
+         #print("Invalid option")
+    #except ValueError :
+        #print("Invalid option")
+
+# Ask user if he wants to run the program again 
+    #run_again = input("Do you wish to continue? (yes/no): ").strip().lower()
+    #if run_again in ("yes", "y"):
+        #view_expense()
+    #else : 
+       #print("Bye!")
+       #break
+
+# Working on the GUI
+class Application:
+    def __init__(self, master=None):
+        pass
+
+# Create root window
+root = Tk()
+Application(root)
+
+# Setting title
+root.title("Expenses Tracker")
+# Setting windows size
+root.geometry('350x200')
+
+# Working on the first screen
+# Adding labels
+lbl = Label(root, text = """ This is my expense tracker app. Here are your options :  
 1 - Add expenses 
 2 - Check expenses
 3 - Exit """)
+lbl.grid()
 
-    answer = int(input("Tell me the option : "))
-    try : 
-        if answer == 1 :
-            add_expense()
-        elif answer == 2 :
-            view_expense()
-        elif answer == 3 : 
-            print("Goodbye!")
-        else :
-         print("Invalid option")
-    except ValueError :
-        print("Invalid option")
+# Entry field for user input
+txt = Entry(root, width=10)
+txt.grid()
 
-# Ask user if he wants to run the program again 
-    run_again = input("Do you wish to continue? (yes/no): ").strip().lower()
-    if run_again in ("yes", "y"):
-        view_expense()
-    else : 
-       print("Bye!")
-       break
+# Execute GUI
+root.mainloop()
