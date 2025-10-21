@@ -46,6 +46,7 @@ def execute_on_click ():
     if option == "1" : 
         screen(screen_add)
     elif option == "2" :
+            view_expense()
             screen(screen_view)
     elif option == "3" : 
            root.quit()
@@ -78,7 +79,7 @@ def add_expense() :
 # Variables for data needed
         date = entry_date.get()
         category = entry_category.get()
-        amount = entry_amount.get()
+        amount = float(entry_amount.get())
     
 # Dictionary to store the data 
         expense = {
@@ -86,7 +87,7 @@ def add_expense() :
         "category" : category,
         "amount" : amount
     }
-        expenses.append(expenses)
+        expenses.append(expense)
 
  # Clear fields
         entry_date.delete(0, tk.END)
