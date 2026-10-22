@@ -1,619 +1,615 @@
 date,category,merchant,amount,payment_method,notes
-01/01/2025,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-01-01,Housing,Landlord,1450.0,Debit,Monthly Rent
 2025-01-01,Transport,Metro Card,14.05,Credit,None
-2025-01-01,medical,Pharmacy,14.28,Debit,None
-2025-01-02,Food,Whole Foods,40.52,Debit,Snacks
+2025-01-01,Health,Pharmacy,14.28,Debit,None
+2025-01-02,Groceries,Whole Foods,40.52,Debit,Snacks
 2025-01-03,Health,Gym,35.0,Credit,Membership
-2025-01-03,Eating out,Cafe Luna,9.35,Credit,Takeout
-2025-01-05,bills,Electric Co,113.3,Debit,Monthly Bill
-01/05/2025,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-01-03,Eating Out,Cafe Luna,9.35,Credit,Takeout
+2025-01-05,Utilities,Electric Co,113.3,Debit,Monthly Bill
+2025-01-05,Utilities,Internet,65.0,Credit,Monthly Bill
 2025-01-05,Utilities,Phone,40.0,Debit,Monthly Bill
-2025-01-05,Eating out,Cafe Luna,11.26,Debit,Lunch
-2025-01-05,Amazon,Target,56.2,Debit,None
+2025-01-05,Eating Out,Cafe Luna,11.26,Debit,Lunch
+2025-01-05,Shopping,Target,56.2,Debit,None
 2025-01-05,Groceries,Trader Joe's,42.04,Cash,Snacks
-2025-01-06,Eating out,Noodle House,16.28,Credit,Dinner With Friends
-2025-01-06,food,Aldi,43.38,Credit,Meal Prep
-2025-01-07,Dining,Cafe Luna,21.97,Debit,Coffee
-2025-01-07,travel,Metro Card,25.61,Debit,None
-2025-01-08,Eating out,Date Night Bistro,83.74,Debit,Lunch
-2025-01-08,transport,Metro Card,15.16,Cash,Commute
-2025-01-08,medical,Gym,35.0,Credit,None
-2025-01-09,Eating out,Cafe Luna,21.35,Credit,Lunch
+2025-01-06,Eating Out,Noodle House,16.28,Credit,Dinner With Friends
+2025-01-06,Groceries,Aldi,43.38,Credit,Meal Prep
+2025-01-07,Eating Out,Cafe Luna,21.97,Debit,Coffee
+2025-01-07,Travel,Metro Card,25.61,Debit,None
+2025-01-08,Eating Out,Date Night Bistro,83.74,Debit,Lunch
+2025-01-08,Transport,Metro Card,15.16,Cash,Commute
+2025-01-08,Health,Gym,35.0,Credit,None
+2025-01-09,Eating Out,Cafe Luna,21.35,Credit,Lunch
 2025-01-09,Transport,Metro Card,31.71,Credit,Weekend Trip
-2025-01-09,food,Whole Foods,105.28,Credit,Snacks
-2025-01-10,restaurants,Noodle House,21.71,Credit,Dinner With Friends
+2025-01-09,Groceries,Whole Foods,105.28,Credit,Snacks
+2025-01-10,Eating Out,Noodle House,21.71,Credit,Dinner With Friends
 2025-01-10,Transport,Uber,16.09,Debit,None
-01/10/2025,Health,Pharmacy,22.96,Credit,None
-2025-01-11,restaurants,Cafe Luna,20.68,Debit,Takeout
-2025-01-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-01-12,dining,Noodle House,18.51,Debit,Lunch
-2025-01-12,Uber/Lyft,Uber,21.28,Debit,Commute
-2025-01-12,grocery,Aldi,67.18,Debit,Snacks
-2025-01-13,Dining,Date Night Bistro,64.94,Debit,Lunch
-2025-01-13,grocery,Trader Joe's,39.11,Debit,None
-2025-01-14,travel,Gas Station,40.29,Credit,Weekend Trip
+2025-01-10,Health,Pharmacy,22.96,Credit,None
+2025-01-11,Eating Out,Cafe Luna,20.68,Debit,Takeout
+2025-01-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-01-12,Eating Out,Noodle House,18.51,Debit,Lunch
+2025-01-12,Transport,Uber,21.28,Debit,Commute
+2025-01-12,Groceries,Aldi,67.18,Debit,Snacks
+2025-01-13,Eating Out,Date Night Bistro,64.94,Debit,Lunch
+2025-01-13,Groceries,Trader Joe's,39.11,Debit,None
+2025-01-14,Travel,Gas Station,40.29,Credit,Weekend Trip
 2025-01-16,Transport,Uber,18.55,Credit,None
-01/16/2025,health,Pharmacy,24.07,Credit,None
-2025-01-17,Eating out,Pizza Place,25.15,Credit,Coffee
-2025-01-17,Uber/Lyft,Uber,13.54,Credit,Weekend Trip
-2025-01-18,Entertainment ,Bowling,30.39,Debit,Subscription
-2025-01-18,shopping,Clothing Store,82.26,Cash,Household
-01/19/2025,Food,Whole Foods,63.95,Credit,Weekly Shop
-2025-01-20,restaurants,Pizza Place,18.9,Cash,Dinner With Friends
-01/20/2025,Groceries,Corner Market,8.86,Cash,None
-2025-01-23,Dining,Cafe Luna,20.36,Credit,Dinner With Friends
-2025-01-23,grocery,Aldi,88.94,Cash,Weekly Shop
-2025-01-24,transport,Uber,25.62,Credit,None
-2025-01-25,shopping,Amazon,29.61,Credit,Gift
-2025-01-26,Eating out,Cafe Luna,14.59,Debit,Dinner With Friends
+2025-01-16,Health,Pharmacy,24.07,Credit,None
+2025-01-17,Eating Out,Pizza Place,25.15,Credit,Coffee
+2025-01-17,Transport,Uber,13.54,Credit,Weekend Trip
+2025-01-18,Entertainment,Bowling,30.39,Debit,Subscription
+2025-01-18,Shopping,Clothing Store,82.26,Cash,Household
+2025-01-19,Groceries,Whole Foods,63.95,Credit,Weekly Shop
+2025-01-20,Eating Out,Pizza Place,18.9,Cash,Dinner With Friends
+2025-01-20,Groceries,Corner Market,8.86,Cash,None
+2025-01-23,Eating Out,Cafe Luna,20.36,Credit,Dinner With Friends
+2025-01-23,Groceries,Aldi,88.94,Cash,Weekly Shop
+2025-01-24,Transport,Uber,25.62,Credit,None
+2025-01-25,Shopping,Amazon,29.61,Credit,Gift
+2025-01-26,Eating Out,Cafe Luna,14.59,Debit,Dinner With Friends
 2025-01-26,Shopping,Target,29.01,Cash,Gift
 2025-01-26,Groceries,Aldi,93.87,Debit,Meal Prep
-2025-01-27,dining,Pizza Place,31.7,Debit,Lunch
-2025-01-28,Dining,Taco Truck,10.33,Debit,Lunch
-2025-01-30,Eating out,Date Night Bistro,86.43,Debit,Takeout
-2025-01-30,Food,Trader Joe's,37.98,Credit,None
-2025-01-31,travel,Metro Card,27.72,Cash,None
+2025-01-27,Eating Out,Pizza Place,31.7,Debit,Lunch
+2025-01-28,Eating Out,Taco Truck,10.33,Debit,Lunch
+2025-01-30,Eating Out,Date Night Bistro,86.43,Debit,Takeout
+2025-01-30,Groceries,Trader Joe's,37.98,Credit,None
+2025-01-31,Travel,Metro Card,27.72,Cash,None
 2025-02-01,Housing,Landlord,1450.0,Debit,Monthly Rent
-02/01/2025,shopping,Target,47.38,Credit,None
-2025-02-02,Dining,Noodle House,24.91,Debit,Dinner With Friends
-2025-02-02,travel,Uber,20.97,Debit,Commute
-2025-02-02,grocery,Trader Joe's,74.42,Debit,Weekly Shop
-2025-02-03,medical,Gym,35.0,Credit,Membership
-2025-02-03,dining,Cafe Luna,19.88,Credit,Coffee
+2025-02-01,Shopping,Target,47.38,Credit,None
+2025-02-02,Eating Out,Noodle House,24.91,Debit,Dinner With Friends
+2025-02-02,Travel,Uber,20.97,Debit,Commute
+2025-02-02,Groceries,Trader Joe's,74.42,Debit,Weekly Shop
+2025-02-03,Health,Gym,35.0,Credit,Membership
+2025-02-03,Eating Out,Cafe Luna,19.88,Credit,Coffee
 2025-02-05,Utilities,Electric Co,105.33,Debit,Monthly Bill
 2025-02-05,Utilities,Internet,65.0,Credit,Monthly Bill
-2025-02-05,bills,Phone,40.0,Debit,Monthly Bill
+2025-02-05,Utilities,Phone,40.0,Debit,Monthly Bill
 2025-02-06,Groceries,Whole Foods,58.76,Cash,Meal Prep
-2025-02-07,dining,Pizza Place,26.72,Debit,Lunch
-2025-02-07,medical,Clinic Copay,38.63,Debit,None
-2025-02-08,restaurants,Noodle House,24.06,Credit,Coffee
-2025-02-08,Entertainment ,Concert,54.44,Debit,None
-02/08/2025,Transport,Uber,9.51,Credit,Weekend Trip
-2025-02-09,Eating out,Taco Truck,10.27,Debit,Takeout
+2025-02-07,Eating Out,Pizza Place,26.72,Debit,Lunch
+2025-02-07,Health,Clinic Copay,38.63,Debit,None
+2025-02-08,Eating Out,Noodle House,24.06,Credit,Coffee
+2025-02-08,Entertainment,Concert,54.44,Debit,None
+2025-02-08,Transport,Uber,9.51,Credit,Weekend Trip
+2025-02-09,Eating Out,Taco Truck,10.27,Debit,Takeout
 2025-02-09,Entertainment,Bookshop,18.82,Cash,Night Out
 2025-02-09,Transport,Bike Share,5.79,Debit,Commute
 2025-02-09,Groceries,Aldi,44.14,Debit,Snacks
-2025-02-10,Dining,Pizza Place,27.8,Credit,Dinner With Friends
-2025-02-10,travel,Metro Card,23.57,Credit,Weekend Trip
+2025-02-10,Eating Out,Pizza Place,27.8,Credit,Dinner With Friends
+2025-02-10,Travel,Metro Card,23.57,Credit,Weekend Trip
 2025-02-10,Groceries,Trader Joe's,60.62,Cash,Weekly Shop
-02/11/2025,Uber/Lyft,Uber,21.57,Credit,Commute
-02/12/2025,fun,Spotify,11.99,Credit,Subscription
-2025-02-14,dining,Taco Truck,12.77,Debit,Coffee
-2025-02-15,dining,Date Night Bistro,57.55,Credit,Coffee
-2025-02-16,Eating out,Noodle House,17.68,Cash,Takeout
-2025-02-16,Amazon,Target,72.04,Credit,Household
+2025-02-11,Transport,Uber,21.57,Credit,Commute
+2025-02-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-02-14,Eating Out,Taco Truck,12.77,Debit,Coffee
+2025-02-15,Eating Out,Date Night Bistro,57.55,Credit,Coffee
+2025-02-16,Eating Out,Noodle House,17.68,Cash,Takeout
+2025-02-16,Shopping,Target,72.04,Credit,Household
 2025-02-16,Groceries,Trader Joe's,65.02,Debit,None
-2025-02-17,Eating out,Cafe Luna,17.3,Debit,Takeout
-02/17/2025,Food,Aldi,50.08,Credit,Weekly Shop
-2025-02-18,Eating out,Taco Truck,10.3,Debit,Dinner With Friends
-2025-02-19,restaurants,Cafe Luna,10.72,Cash,Dinner With Friends
-2025-02-20,Dining,Cafe Luna,12.09,Debit,Dinner With Friends
+2025-02-17,Eating Out,Cafe Luna,17.3,Debit,Takeout
+2025-02-17,Groceries,Aldi,50.08,Credit,Weekly Shop
+2025-02-18,Eating Out,Taco Truck,10.3,Debit,Dinner With Friends
+2025-02-19,Eating Out,Cafe Luna,10.72,Cash,Dinner With Friends
+2025-02-20,Eating Out,Cafe Luna,12.09,Debit,Dinner With Friends
 2025-02-20,Groceries,Aldi,38.08,Debit,None
-02/21/2025,Eating out,Pizza Place,14.96,Credit,Dinner With Friends
-2025-02-21,transport,Uber,16.91,Credit,None
+2025-02-21,Eating Out,Pizza Place,14.96,Credit,Dinner With Friends
+2025-02-21,Transport,Uber,16.91,Credit,None
 2025-02-22,Entertainment,Bowling,27.43,Credit,None
-2025-02-23,restaurants,Cafe Luna,17.25,Credit,Dinner With Friends
+2025-02-23,Eating Out,Cafe Luna,17.25,Credit,Dinner With Friends
 2025-02-23,Entertainment,Concert,69.47,Cash,Night Out
 2025-02-23,Groceries,Trader Joe's,76.04,Debit,Snacks
 2025-02-24,Groceries,Aldi,53.46,Debit,Meal Prep
-2025-02-25,Dining,Noodle House,16.36,Debit,Coffee
+2025-02-25,Eating Out,Noodle House,16.36,Debit,Coffee
 2025-02-26,Transport,Metro Card,25.49,Credit,None
-2025-02-27,dining,Cafe Luna,18.59,Credit,Coffee
-2025-02-27,travel,Uber,21.06,Debit,Weekend Trip
-2025-02-27,food,Whole Foods,66.38,Cash,None
-03/01/2025,rent,Landlord,1450.0,Debit,Monthly Rent
-2025-03-01,Uber/Lyft,Gas Station,40.47,Credit,Commute
-2025-03-02,restaurants,Noodle House,12.83,Credit,Takeout
-2025-03-02,Uber/Lyft,Bike Share,8.87,Credit,Commute
-2025-03-02,Groceries,Aldi,,Debit,Weekly Shop
+2025-02-27,Eating Out,Cafe Luna,18.59,Credit,Coffee
+2025-02-27,Travel,Uber,21.06,Debit,Weekend Trip
+2025-02-27,Groceries,Whole Foods,66.38,Cash,None
+2025-03-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-03-01,Transport,Gas Station,40.47,Credit,Commute
+2025-03-02,Eating Out,Noodle House,12.83,Credit,Takeout
+2025-03-02,Transport,Bike Share,8.87,Credit,Commute
 2025-03-03,Health,Gym,35.0,Credit,Membership
-2025-03-04,transport,Uber,16.29,Credit,None
-2025-03-05,bills,Electric Co,125.3,Debit,Monthly Bill
+2025-03-04,Transport,Uber,16.29,Credit,None
+2025-03-05,Utilities,Electric Co,125.3,Debit,Monthly Bill
 2025-03-05,Utilities,Internet,65.0,Credit,Monthly Bill
 2025-03-05,Utilities,Phone,40.0,Debit,Monthly Bill
-2025-03-05,dining,Pizza Place,31.98,Credit,Coffee
-2025-03-05,transport,Uber,19.33,Cash,Weekend Trip
-2025-03-06,dining,Taco Truck,11.88,Debit,Takeout
-03/07/2025,dining,Cafe Luna,15.03,Debit,Takeout
-2025-03-07,health,Pharmacy,31.52,Debit,Refill
-2025-03-08,dining,Pizza Place,21.15,Cash,Lunch
-2025-03-09,Dining,Pizza Place,18.23,Credit,Takeout
-2025-03-09,Entertainment ,Bowling,37.2,Credit,Night Out
-2025-03-09,shopping,Target,21.2,Cash,Gift
-2025-03-09,food,Whole Foods,53.6,Credit,Weekly Shop
-2025-03-10,dining,Date Night Bistro,51.44,Cash,Coffee
-03/10/2025,transport,Gas Station,52.33,Credit,None
-2025-03-11,restaurants,Date Night Bistro,76.06,Cash,Coffee
+2025-03-05,Eating Out,Pizza Place,31.98,Credit,Coffee
+2025-03-05,Transport,Uber,19.33,Cash,Weekend Trip
+2025-03-06,Eating Out,Taco Truck,11.88,Debit,Takeout
+2025-03-07,Eating Out,Cafe Luna,15.03,Debit,Takeout
+2025-03-07,Health,Pharmacy,31.52,Debit,Refill
+2025-03-08,Eating Out,Pizza Place,21.15,Cash,Lunch
+2025-03-09,Eating Out,Pizza Place,18.23,Credit,Takeout
+2025-03-09,Entertainment,Bowling,37.2,Credit,Night Out
+2025-03-09,Shopping,Target,21.2,Cash,Gift
+2025-03-09,Groceries,Whole Foods,53.6,Credit,Weekly Shop
+2025-03-10,Eating Out,Date Night Bistro,51.44,Cash,Coffee
+2025-03-10,Transport,Gas Station,52.33,Credit,None
+2025-03-11,Eating Out,Date Night Bistro,76.06,Cash,Coffee
 2025-03-11,Health,Pharmacy,17.69,Cash,Checkup
-2025-03-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-03-12,dining,Taco Truck,14.45,Credit,Lunch
-2025-03-13,Eating out,Taco Truck,10.53,Credit,Dinner With Friends
-2025-03-15,Eating out,Noodle House,21.27,Debit,Dinner With Friends
-2025-03-15,Amazon,Amazon,58.45,Credit,Gift
-2025-03-16,Dining,Taco Truck,12.37,Cash,Takeout
-2025-03-16,Entertainment ,Bookshop,16.06,Debit,None
-2025-03-16,travel,Uber,17.64,Cash,None
-2025-03-17,restaurants,Cafe Luna,8.35,Credit,Takeout
-2025-03-17,Food,Trader Joe's,34.07,Debit,Weekly Shop
-2025-03-18,Eating out,Cafe Luna,15.53,Debit,Coffee
-2025-03-19,dining,Pizza Place,16.78,Debit,Coffee
-2025-03-20,Uber/Lyft,Uber,13.49,Debit,Weekend Trip
+2025-03-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-03-12,Eating Out,Taco Truck,14.45,Credit,Lunch
+2025-03-13,Eating Out,Taco Truck,10.53,Credit,Dinner With Friends
+2025-03-15,Eating Out,Noodle House,21.27,Debit,Dinner With Friends
+2025-03-15,Shopping,Amazon,58.45,Credit,Gift
+2025-03-16,Eating Out,Taco Truck,12.37,Cash,Takeout
+2025-03-16,Entertainment,Bookshop,16.06,Debit,None
+2025-03-16,Travel,Uber,17.64,Cash,None
+2025-03-17,Eating Out,Cafe Luna,8.35,Credit,Takeout
+2025-03-17,Groceries,Trader Joe's,34.07,Debit,Weekly Shop
+2025-03-18,Eating Out,Cafe Luna,15.53,Debit,Coffee
+2025-03-19,Eating Out,Pizza Place,16.78,Debit,Coffee
+2025-03-20,Transport,Uber,13.49,Debit,Weekend Trip
 2025-03-20,Groceries,Aldi,46.39,Debit,Weekly Shop
-2025-03-21,medical,Gym,35.0,Credit,Refill
-2025-03-23,restaurants,Taco Truck,14.52,Cash,Lunch
-03/23/2025,Uber/Lyft,Gas Station,31.56,Credit,Weekend Trip
-2025-03-23,food,Aldi,60.26,Debit,Weekly Shop
-2025-03-24,Dining,Pizza Place,22.14,Credit,Dinner With Friends
-2025-03-24,food,Trader Joe's,29.62,Debit,None
-03/25/2025,restaurants,Date Night Bistro,48.31,Cash,Lunch
-2025-03-25,Uber/Lyft,Uber,19.42,Debit,Weekend Trip
-2025-03-26,dining,Pizza Place,29.35,Debit,Dinner With Friends
-2025-03-27,Eating out,Pizza Place,19.63,Cash,Takeout
+2025-03-21,Health,Gym,35.0,Credit,Refill
+2025-03-23,Eating Out,Taco Truck,14.52,Cash,Lunch
+2025-03-23,Transport,Gas Station,31.56,Credit,Weekend Trip
+2025-03-23,Groceries,Aldi,60.26,Debit,Weekly Shop
+2025-03-24,Eating Out,Pizza Place,22.14,Credit,Dinner With Friends
+2025-03-24,Groceries,Trader Joe's,29.62,Debit,None
+2025-03-25,Eating Out,Date Night Bistro,48.31,Cash,Lunch
+2025-03-25,Transport,Uber,19.42,Debit,Weekend Trip
+2025-03-26,Eating Out,Pizza Place,29.35,Debit,Dinner With Friends
+2025-03-27,Eating Out,Pizza Place,19.63,Cash,Takeout
 2025-03-27,Groceries,Aldi,60.91,Credit,Meal Prep
 2025-03-28,Transport,Metro Card,19.07,Debit,None
-2025-03-29,Dining,Pizza Place,17.83,Credit,Coffee
-2025-03-29,Amazon,Target,30.89,Credit,Gift
-2025-03-30,restaurants,Date Night Bistro,82.33,Debit,Takeout
-03/30/2025,Groceries,Aldi,74.44,Credit,Weekly Shop
-2025-03-31,Eating out,Noodle House,19.26,Cash,Dinner With Friends
-2025-03-31,Food,Aldi,44.44,Debit,Weekly Shop
-2025-04-01,rent,Landlord,1450.0,Debit,Monthly Rent
-04/01/2025,dining,Cafe Luna,18.57,Cash,Lunch
-2025-04-02,restaurants,Noodle House,15.53,Debit,Lunch
-2025-04-02,Transport ,Metro Card,17.11,Debit,Weekend Trip
+2025-03-29,Eating Out,Pizza Place,17.83,Credit,Coffee
+2025-03-29,Shopping,Target,30.89,Credit,Gift
+2025-03-30,Eating Out,Date Night Bistro,82.33,Debit,Takeout
+2025-03-30,Groceries,Aldi,74.44,Credit,Weekly Shop
+2025-03-31,Eating Out,Noodle House,19.26,Cash,Dinner With Friends
+2025-03-31,Groceries,Aldi,44.44,Debit,Weekly Shop
+2025-04-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-04-01,Eating Out,Cafe Luna,18.57,Cash,Lunch
+2025-04-02,Eating Out,Noodle House,15.53,Debit,Lunch
+2025-04-02,Transport,Metro Card,17.11,Debit,Weekend Trip
 2025-04-03,Health,Gym,35.0,Credit,Membership
-2025-04-04,Dining,Taco Truck,9.3,Debit,Lunch
-2025-04-05,bills,Electric Co,119.66,Debit,Monthly Bill
-04/05/2025,bills,Internet,65.0,Credit,Monthly Bill
-2025-04-05,bills,Phone,40.0,Debit,Monthly Bill
-2025-04-06,Dining,Cafe Luna,14.1,Credit,Coffee
+2025-04-04,Eating Out,Taco Truck,9.3,Debit,Lunch
+2025-04-05,Utilities,Electric Co,119.66,Debit,Monthly Bill
+2025-04-05,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-04-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-04-06,Eating Out,Cafe Luna,14.1,Credit,Coffee
 2025-04-06,Entertainment,Spotify,11.99,Credit,Night Out
-2025-04-06,Amazon,Amazon,60.01,Cash,Gift
-2025-04-06,grocery,Aldi,,Credit,Snacks
-2025-04-07,travel,Gas Station,41.34,Credit,None
-04/07/2025,food,Corner Market,13.49,Credit,Meal Prep
-2025-04-08,Dining,Noodle House,16.39,Cash,Lunch
-2025-04-08,medical,Clinic Copay,27.69,Credit,Refill
-2025-04-09,restaurants,Pizza Place,28.25,Debit,Lunch
-04/10/2025,restaurants,Cafe Luna,20.59,Debit,Takeout
-2025-04-10,food,Trader Joe's,46.92,Debit,Meal Prep
-2025-04-11,travel,Uber,15.36,Debit,Weekend Trip
-2025-04-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-04-12,Eating out,Cafe Luna,9.14,Cash,Dinner With Friends
-2025-04-13,Entertainment ,Spotify,11.99,Credit,Night Out
-2025-04-14,Eating out,Pizza Place,23.15,Cash,Lunch
-04/14/2025,transport,Bike Share,7.89,Credit,Commute
-2025-04-14,grocery,Whole Foods,-106.81,Cash,Weekly Shop
-2025-04-15,Dining,Cafe Luna,17.7,Debit,Dinner With Friends
-2025-04-16,restaurants,Cafe Luna,18.48,Credit,Coffee
-2025-04-17,travel,Bike Share,11.88,Cash,Weekend Trip
-2025-04-17,food,Aldi,71.28,Debit,Meal Prep
-2025-04-18,transport,Gas Station,50.98,Debit,Weekend Trip
-2025-04-19,Eating out,Noodle House,27.14,Debit,Dinner With Friends
-2025-04-20,Eating out,Cafe Luna,11.14,Debit,Takeout
-2025-04-20,Entertainment ,Spotify,11.99,Credit,Night Out
-2025-04-20,Food,Aldi,43.97,Debit,None
-2025-04-21,Dining,Cafe Luna,16.95,Debit,Coffee
+2025-04-06,Shopping,Amazon,60.01,Cash,Gift
+2025-04-07,Travel,Gas Station,41.34,Credit,None
+2025-04-07,Groceries,Corner Market,13.49,Credit,Meal Prep
+2025-04-08,Eating Out,Noodle House,16.39,Cash,Lunch
+2025-04-08,Health,Clinic Copay,27.69,Credit,Refill
+2025-04-09,Eating Out,Pizza Place,28.25,Debit,Lunch
+2025-04-10,Eating Out,Cafe Luna,20.59,Debit,Takeout
+2025-04-10,Groceries,Trader Joe's,46.92,Debit,Meal Prep
+2025-04-11,Travel,Uber,15.36,Debit,Weekend Trip
+2025-04-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-04-12,Eating Out,Cafe Luna,9.14,Cash,Dinner With Friends
+2025-04-13,Entertainment,Spotify,11.99,Credit,Night Out
+2025-04-14,Eating Out,Pizza Place,23.15,Cash,Lunch
+2025-04-14,Transport,Bike Share,7.89,Credit,Commute
+2025-04-14,Groceries,Whole Foods,-106.81,Cash,Weekly Shop
+2025-04-15,Eating Out,Cafe Luna,17.7,Debit,Dinner With Friends
+2025-04-16,Eating Out,Cafe Luna,18.48,Credit,Coffee
+2025-04-17,Travel,Bike Share,11.88,Cash,Weekend Trip
+2025-04-17,Groceries,Aldi,71.28,Debit,Meal Prep
+2025-04-18,Transport,Gas Station,50.98,Debit,Weekend Trip
+2025-04-19,Eating Out,Noodle House,27.14,Debit,Dinner With Friends
+2025-04-20,Eating Out,Cafe Luna,11.14,Debit,Takeout
+2025-04-20,Entertainment,Spotify,11.99,Credit,Night Out
+2025-04-20,Groceries,Aldi,43.97,Debit,None
+2025-04-21,Eating Out,Cafe Luna,16.95,Debit,Coffee
 2025-04-21,Groceries,Trader Joe's,65.36,Debit,Meal Prep
-04/22/2025,Eating out,Noodle House,22.63,Credit,Lunch
-2025-04-24,Eating out,Pizza Place,31.66,Debit,Takeout
-04/24/2025,transport,Uber,20.94,Cash,None
-04/25/2025,restaurants,Taco Truck,12.25,Credit,Coffee
-2025-04-26,Eating out,Cafe Luna,10.79,Cash,Lunch
-2025-04-27,fun,Spotify,11.99,Cash,Subscription
-2025-04-27,food,Whole Foods,70.93,Debit,Snacks
-2025-04-28,transport,Metro Card,20.49,Credit,Weekend Trip
-2025-04-28,food,Trader Joe's,43.94,Credit,None
-04/29/2025,Dining,Taco Truck,11.47,Cash,Coffee
-2025-05-01,Rent,Landlord,1450.0,Debit,Monthly Rent
-2025-05-01,grocery,Trader Joe's,46.83,Credit,Weekly Shop
-2025-05-02,travel,Gas Station,43.5,Cash,None
-05/03/2025,Health,Gym,35.0,Credit,Membership
-2025-05-03,Eating out,Noodle House,26.62,Cash,Lunch
+2025-04-22,Eating Out,Noodle House,22.63,Credit,Lunch
+2025-04-24,Eating Out,Pizza Place,31.66,Debit,Takeout
+2025-04-24,Transport,Uber,20.94,Cash,None
+2025-04-25,Eating Out,Taco Truck,12.25,Credit,Coffee
+2025-04-26,Eating Out,Cafe Luna,10.79,Cash,Lunch
+2025-04-27,Entertainment,Spotify,11.99,Cash,Subscription
+2025-04-27,Groceries,Whole Foods,70.93,Debit,Snacks
+2025-04-28,Transport,Metro Card,20.49,Credit,Weekend Trip
+2025-04-28,Groceries,Trader Joe's,43.94,Credit,None
+2025-04-29,Eating Out,Taco Truck,11.47,Cash,Coffee
+2025-05-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-05-01,Groceries,Trader Joe's,46.83,Credit,Weekly Shop
+2025-05-02,Travel,Gas Station,43.5,Cash,None
+2025-05-03,Health,Gym,35.0,Credit,Membership
+2025-05-03,Eating Out,Noodle House,26.62,Cash,Lunch
 2025-05-03,Entertainment,Bowling,33.27,Credit,Night Out
-2025-05-03,Amazon,Target,58.66,Cash,Household
-2025-05-03,Uber/Lyft,Uber,25.94,Credit,Commute
-2025-05-04,Eating out,Cafe Luna,9.94,Debit,Coffee
-2025-05-04,food,Aldi,53.56,Credit,None
+2025-05-03,Shopping,Target,58.66,Cash,Household
+2025-05-03,Transport,Uber,25.94,Credit,Commute
+2025-05-04,Eating Out,Cafe Luna,9.94,Debit,Coffee
+2025-05-04,Groceries,Aldi,53.56,Credit,None
 2025-05-05,Utilities,Electric Co,127.63,Debit,Monthly Bill
-2025-05-05,bills,Internet,65.0,Credit,Monthly Bill
-2025-05-05,bills,Phone,40.0,Debit,Monthly Bill
-2025-05-05,dining,Cafe Luna,19.61,Credit,Dinner With Friends
-2025-05-05,Food,Aldi,44.72,Cash,Snacks
-2025-05-06,Dining,Pizza Place,23.92,Cash,Dinner With Friends
-2025-05-06,Uber/Lyft,Bike Share,5.23,Credit,None
-2025-05-07,transport,Metro Card,24.83,Cash,None
-05/08/2025,food,Corner Market,16.21,Cash,None
-2025-05-09,restaurants,Noodle House,19.75,Cash,Dinner With Friends
-2025-05-10,shopping,Target,50.01,Credit,Gift
-2025-05-11,restaurants,Cafe Luna,21.24,Credit,Coffee
-2025-05-11,Uber/Lyft,Metro Card,31.92,Debit,Weekend Trip
-05/11/2025,Food,Aldi,62.43,Credit,Snacks
-2025-05-12,fun,Spotify,11.99,Credit,Subscription
-2025-05-12,food,Whole Foods,74.47,Cash,Meal Prep
-2025-05-13,dining,Pizza Place,17.5,Debit,Takeout
-2025-05-14,health,Clinic Copay,38.79,Credit,Checkup
-2025-05-15,restaurants,Noodle House,20.0,Debit,Lunch
-2025-05-15,food,Whole Foods,51.18,Credit,Meal Prep
-2025-05-16,Uber/Lyft,Metro Card,28.57,Debit,None
-2025-05-16,health,Pharmacy,10.96,Credit,Checkup
+2025-05-05,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-05-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-05-05,Eating Out,Cafe Luna,19.61,Credit,Dinner With Friends
+2025-05-05,Groceries,Aldi,44.72,Cash,Snacks
+2025-05-06,Eating Out,Pizza Place,23.92,Cash,Dinner With Friends
+2025-05-06,Transport,Bike Share,5.23,Credit,None
+2025-05-07,Transport,Metro Card,24.83,Cash,None
+2025-05-08,Groceries,Corner Market,16.21,Cash,None
+2025-05-09,Eating Out,Noodle House,19.75,Cash,Dinner With Friends
+2025-05-10,Shopping,Target,50.01,Credit,Gift
+2025-05-11,Eating Out,Cafe Luna,21.24,Credit,Coffee
+2025-05-11,Transport,Metro Card,31.92,Debit,Weekend Trip
+2025-05-11,Groceries,Aldi,62.43,Credit,Snacks
+2025-05-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-05-12,Groceries,Whole Foods,74.47,Cash,Meal Prep
+2025-05-13,Eating Out,Pizza Place,17.5,Debit,Takeout
+2025-05-14,Health,Clinic Copay,38.79,Credit,Checkup
+2025-05-15,Eating Out,Noodle House,20.0,Debit,Lunch
+2025-05-15,Groceries,Whole Foods,51.18,Credit,Meal Prep
+2025-05-16,Transport,Metro Card,28.57,Debit,None
+2025-05-16,Health,Pharmacy,10.96,Credit,Checkup
 2025-05-17,Shopping,Amazon,63.25,Credit,None
-05/18/2025,restaurants,Pizza Place,25.16,Credit,Coffee
-2025-05-18,Amazon,Target,35.88,Debit,Household
-2025-05-18,grocery,Trader Joe's,72.12,Credit,Weekly Shop
-2025-05-20,dining,Noodle House,20.74,Credit,Takeout
-2025-05-20,transport,Uber,13.27,Cash,Weekend Trip
-2025-05-21,Dining,Pizza Place,30.82,Cash,Takeout
-2025-05-22,Dining,Noodle House,24.37,Cash,Dinner With Friends
-2025-05-22,Food,Aldi,63.74,Credit,Snacks
-2025-05-23,transport,Uber,20.15,Debit,Commute
+2025-05-18,Eating Out,Pizza Place,25.16,Credit,Coffee
+2025-05-18,Shopping,Target,35.88,Debit,Household
+2025-05-18,Groceries,Trader Joe's,72.12,Credit,Weekly Shop
+2025-05-20,Eating Out,Noodle House,20.74,Credit,Takeout
+2025-05-20,Transport,Uber,13.27,Cash,Weekend Trip
+2025-05-21,Eating Out,Pizza Place,30.82,Cash,Takeout
+2025-05-22,Eating Out,Noodle House,24.37,Cash,Dinner With Friends
+2025-05-22,Groceries,Aldi,63.74,Credit,Snacks
+2025-05-23,Transport,Uber,20.15,Debit,Commute
 2025-05-23,Health,Pharmacy,27.37,Credit,Refill
-2025-05-24,Entertainment ,Bowling,37.37,Debit,Night Out
-2025-05-25,Dining,Date Night Bistro,49.03,Credit,Dinner With Friends
-2025-05-25,fun,Bookshop,15.16,Debit,Subscription
-2025-05-25,Food,Aldi,52.9,Cash,Weekly Shop
-2025-05-26,grocery,Trader Joe's,42.19,Cash,Weekly Shop
+2025-05-24,Entertainment,Bowling,37.37,Debit,Night Out
+2025-05-25,Eating Out,Date Night Bistro,49.03,Credit,Dinner With Friends
+2025-05-25,Entertainment,Bookshop,15.16,Debit,Subscription
+2025-05-25,Groceries,Aldi,52.9,Cash,Weekly Shop
+2025-05-26,Groceries,Trader Joe's,42.19,Cash,Weekly Shop
 2025-05-27,Health,Pharmacy,15.97,Credit,None
-2025-05-29,Eating out,Noodle House,13.53,Debit,Dinner With Friends
-2025-05-29,Uber/Lyft,Metro Card,20.93,Cash,Weekend Trip
-2025-05-29,Food,Aldi,49.18,Debit,Weekly Shop
-2025-06-01,rent,Landlord,1450.0,Debit,Monthly Rent
-2025-06-01,dining,Cafe Luna,10.14,Debit,Takeout
-06/01/2025,Food,Trader Joe's,68.94,Credit,None
-2025-06-02,transport,Uber,18.6,Credit,None
-2025-06-02,food,Trader Joe's,65.28,Debit,None
-2025-06-03,health,Gym,35.0,Credit,Membership
-2025-06-03,dining,Pizza Place,24.06,Debit,Takeout
+2025-05-29,Eating Out,Noodle House,13.53,Debit,Dinner With Friends
+2025-05-29,Transport,Metro Card,20.93,Cash,Weekend Trip
+2025-05-29,Groceries,Aldi,49.18,Debit,Weekly Shop
+2025-06-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-06-01,Eating Out,Cafe Luna,10.14,Debit,Takeout
+2025-06-01,Groceries,Trader Joe's,68.94,Credit,None
+2025-06-02,Transport,Uber,18.6,Credit,None
+2025-06-02,Groceries,Trader Joe's,65.28,Debit,None
+2025-06-03,Health,Gym,35.0,Credit,Membership
+2025-06-03,Eating Out,Pizza Place,24.06,Debit,Takeout
 2025-06-03,Transport,Metro Card,13.46,Cash,Weekend Trip
-2025-06-03,health,Clinic Copay,59.51,Debit,Checkup
-2025-06-05,bills,Electric Co,115.21,Debit,Monthly Bill
-2025-06-05,bills,Internet,65.0,Credit,Monthly Bill
-2025-06-05,bills,Phone,40.0,Debit,Monthly Bill
-2025-06-05,grocery,Aldi,45.71,Credit,None
-2025-06-06,dining,Cafe Luna,8.32,Debit,Takeout
-2025-06-07,dining,Cafe Luna,21.12,Debit,Lunch
+2025-06-03,Health,Clinic Copay,59.51,Debit,Checkup
+2025-06-05,Utilities,Electric Co,115.21,Debit,Monthly Bill
+2025-06-05,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-06-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-06-05,Groceries,Aldi,45.71,Credit,None
+2025-06-06,Eating Out,Cafe Luna,8.32,Debit,Takeout
+2025-06-07,Eating Out,Cafe Luna,21.12,Debit,Lunch
 2025-06-07,Transport,Metro Card,23.88,Credit,Weekend Trip
-2025-06-08,Eating out,Noodle House,20.64,Credit,Lunch
-2025-06-09,travel,Gas Station,54.61,Credit,None
-2025-06-09,medical,Clinic Copay,55.79,Debit,Refill
-2025-06-11,dining,Noodle House,14.39,Credit,Coffee
-2025-06-11,travel,Gas Station,31.9,Debit,Weekend Trip
+2025-06-08,Eating Out,Noodle House,20.64,Credit,Lunch
+2025-06-09,Travel,Gas Station,54.61,Credit,None
+2025-06-09,Health,Clinic Copay,55.79,Debit,Refill
+2025-06-11,Eating Out,Noodle House,14.39,Credit,Coffee
+2025-06-11,Travel,Gas Station,31.9,Debit,Weekend Trip
 2025-06-12,Entertainment,Spotify,11.99,Credit,Subscription
-2025-06-12,Dining,Noodle House,13.27,Cash,Coffee
+2025-06-12,Eating Out,Noodle House,13.27,Cash,Coffee
 2025-06-12,Health,Pharmacy,24.33,Debit,Refill
-2025-06-12,Food,Trader Joe's,39.28,Cash,Snacks
-2025-06-13,restaurants,Date Night Bistro,88.29,Debit,Lunch
-2025-06-14,Eating out,Noodle House,16.53,Credit,Coffee
+2025-06-12,Groceries,Trader Joe's,39.28,Cash,Snacks
+2025-06-13,Eating Out,Date Night Bistro,88.29,Debit,Lunch
+2025-06-14,Eating Out,Noodle House,16.53,Credit,Coffee
 2025-06-15,Groceries,Aldi,37.74,Credit,Snacks
-2025-06-16,Food,Aldi,57.79,Debit,Snacks
-2025-06-18,dining,Cafe Luna,19.13,Credit,Dinner With Friends
-2025-06-19,grocery,Whole Foods,43.88,Debit,Weekly Shop
-2025-06-20,Dining,Pizza Place,14.16,Cash,Coffee
-2025-06-21,Dining,Noodle House,12.11,Debit,Coffee
-06/21/2025,Entertainment,Bookshop,12.31,Debit,None
-2025-06-21,shopping,Target,28.94,Cash,None
-2025-06-22,Dining,Noodle House,21.04,Cash,Dinner With Friends
-06/22/2025,transport,Metro Card,23.05,Debit,Commute
-2025-06-23,transport,Bike Share,11.79,Debit,None
-2025-06-24,Dining,Cafe Luna,9.04,Credit,Takeout
+2025-06-16,Groceries,Aldi,57.79,Debit,Snacks
+2025-06-18,Eating Out,Cafe Luna,19.13,Credit,Dinner With Friends
+2025-06-19,Groceries,Whole Foods,43.88,Debit,Weekly Shop
+2025-06-20,Eating Out,Pizza Place,14.16,Cash,Coffee
+2025-06-21,Eating Out,Noodle House,12.11,Debit,Coffee
+2025-06-21,Entertainment,Bookshop,12.31,Debit,None
+2025-06-21,Shopping,Target,28.94,Cash,None
+2025-06-22,Eating Out,Noodle House,21.04,Cash,Dinner With Friends
+2025-06-22,Transport,Metro Card,23.05,Debit,Commute
+2025-06-23,Transport,Bike Share,11.79,Debit,None
+2025-06-24,Eating Out,Cafe Luna,9.04,Credit,Takeout
 2025-06-24,Health,Pharmacy,11.89,Debit,None
-06/26/2025,Food,Whole Foods,95.14,Credit,Weekly Shop
-2025-06-27,Dining,Taco Truck,11.38,Cash,Coffee
-06/28/2025,dining,Pizza Place,20.76,Credit,Dinner With Friends
-2025-06-29,Eating out,Cafe Luna,17.96,Debit,Dinner With Friends
-06/29/2025,Entertainment,Bookshop,20.01,Debit,Night Out
-2025-06-29,Food,Aldi,40.38,Credit,Weekly Shop
-2025-06-30,restaurants,Noodle House,24.47,Credit,Dinner With Friends
-2025-06-30,transport,Metro Card,17.37,Debit,Commute
-2025-06-30,grocery,Aldi,50.1,Debit,Snacks
-2025-07-01,Rent,Landlord,1450.0,Debit,Monthly Rent
-2025-07-01,Uber/Lyft,Uber,24.28,Debit,Weekend Trip
-2025-07-03,medical,Gym,35.0,Credit,Membership
-2025-07-03,dining,Noodle House,27.43,Cash,Takeout
-2025-07-03,grocery,Whole Foods,69.2,Credit,Snacks
-2025-07-05,bills,Electric Co,119.59,Debit,Monthly Bill
-07/05/2025,Utilities,Internet,65.0,Credit,Monthly Bill
-2025-07-05,bills,Phone,40.0,Debit,Monthly Bill
-07/05/2025,dining,Noodle House,16.04,Debit,Dinner With Friends
-07/06/2025,Dining,Date Night Bistro,76.13,Cash,Lunch
-2025-07-06,Entertainment ,Bowling,21.66,Debit,None
-2025-07-07,medical,Pharmacy,21.79,Credit,None
+2025-06-26,Groceries,Whole Foods,95.14,Credit,Weekly Shop
+2025-06-27,Eating Out,Taco Truck,11.38,Cash,Coffee
+2025-06-28,Eating Out,Pizza Place,20.76,Credit,Dinner With Friends
+2025-06-29,Eating Out,Cafe Luna,17.96,Debit,Dinner With Friends
+2025-06-29,Entertainment,Bookshop,20.01,Debit,Night Out
+2025-06-29,Groceries,Aldi,40.38,Credit,Weekly Shop
+2025-06-30,Eating Out,Noodle House,24.47,Credit,Dinner With Friends
+2025-06-30,Transport,Metro Card,17.37,Debit,Commute
+2025-06-30,Groceries,Aldi,50.1,Debit,Snacks
+2025-07-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-07-01,Transport,Uber,24.28,Debit,Weekend Trip
+2025-07-03,Health,Gym,35.0,Credit,Membership
+2025-07-03,Eating Out,Noodle House,27.43,Cash,Takeout
+2025-07-03,Groceries,Whole Foods,69.2,Credit,Snacks
+2025-07-05,Utilities,Electric Co,119.59,Debit,Monthly Bill
+2025-07-05,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-07-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-07-05,Eating Out,Noodle House,16.04,Debit,Dinner With Friends
+2025-07-06,Eating Out,Date Night Bistro,76.13,Cash,Lunch
+2025-07-06,Entertainment,Bowling,21.66,Debit,None
+2025-07-07,Health,Pharmacy,21.79,Credit,None
 2025-07-07,Groceries,Aldi,62.78,Cash,Snacks
-2025-07-08,Eating out,Date Night Bistro,48.86,Cash,Dinner With Friends
-2025-07-09,Dining,Cafe Luna,18.11,Cash,Coffee
-2025-07-09,medical,Clinic Copay,47.68,Credit,None
-2025-07-10,dining,Cafe Luna,15.84,Credit,Coffee
-2025-07-10,transport,Uber,16.52,Credit,None
+2025-07-08,Eating Out,Date Night Bistro,48.86,Cash,Dinner With Friends
+2025-07-09,Eating Out,Cafe Luna,18.11,Cash,Coffee
+2025-07-09,Health,Clinic Copay,47.68,Credit,None
+2025-07-10,Eating Out,Cafe Luna,15.84,Credit,Coffee
+2025-07-10,Transport,Uber,16.52,Credit,None
 2025-07-10,Groceries,Aldi,51.7,Credit,Weekly Shop
-2025-07-11,dining,Noodle House,15.15,Cash,Lunch
-2025-07-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-07-12,Dining,Noodle House,19.33,Cash,Dinner With Friends
-2025-07-12,Entertainment ,Cinema,13.87,Credit,Night Out
-2025-07-13,restaurants,Noodle House,20.6,Credit,Dinner With Friends
+2025-07-11,Eating Out,Noodle House,15.15,Cash,Lunch
+2025-07-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-07-12,Eating Out,Noodle House,19.33,Cash,Dinner With Friends
+2025-07-12,Entertainment,Cinema,13.87,Credit,Night Out
+2025-07-13,Eating Out,Noodle House,20.6,Credit,Dinner With Friends
 2025-07-13,Entertainment,Spotify,11.99,Credit,Night Out
-2025-07-13,food,Aldi,68.69,Debit,None
-2025-07-14,health,Pharmacy,28.55,Debit,Checkup
+2025-07-13,Groceries,Aldi,68.69,Debit,None
+2025-07-14,Health,Pharmacy,28.55,Debit,Checkup
 2025-07-14,Groceries,Whole Foods,85.25,Credit,None
-2025-07-15,restaurants,Noodle House,27.85,Debit,Lunch
-2025-07-15,travel,Gas Station,48.29,Debit,Weekend Trip
-2025-07-16,Eating out,Taco Truck,9.82,Credit,Dinner With Friends
-2025-07-19,Dining,Date Night Bistro,58.17,Credit,Takeout
-2025-07-19,transport,Metro Card,25.12,Credit,None
-2025-07-20,restaurants,Cafe Luna,19.81,Debit,Coffee
-2025-07-20,fun,Concert,57.6,Debit,None
-07/20/2025,Amazon,Clothing Store,48.99,Cash,Gift
-2025-07-20,food,Whole Foods,76.68,Debit,Meal Prep
-2025-07-21,restaurants,Cafe Luna,11.76,Cash,Takeout
-2025-07-21,Groceries ,Aldi,40.97,Debit,None
-2025-07-22,restaurants,Noodle House,27.87,Credit,Coffee
-07/22/2025,Uber/Lyft,Gas Station,51.67,Cash,Commute
+2025-07-15,Eating Out,Noodle House,27.85,Debit,Lunch
+2025-07-15,Travel,Gas Station,48.29,Debit,Weekend Trip
+2025-07-16,Eating Out,Taco Truck,9.82,Credit,Dinner With Friends
+2025-07-19,Eating Out,Date Night Bistro,58.17,Credit,Takeout
+2025-07-19,Transport,Metro Card,25.12,Credit,None
+2025-07-20,Eating Out,Cafe Luna,19.81,Debit,Coffee
+2025-07-20,Entertainment,Concert,57.6,Debit,None
+2025-07-20,Shopping,Clothing Store,48.99,Cash,Gift
+2025-07-20,Groceries,Whole Foods,76.68,Debit,Meal Prep
+2025-07-21,Eating Out,Cafe Luna,11.76,Cash,Takeout
+2025-07-21,Groceries,Aldi,40.97,Debit,None
+2025-07-22,Eating Out,Noodle House,27.87,Credit,Coffee
+2025-07-22,Transport,Gas Station,51.67,Cash,Commute
 2025-07-23,Transport,Uber,22.79,Debit,Commute
-2025-07-23,medical,Pharmacy,11.58,Credit,Refill
-07/24/2025,dining,Noodle House,13.93,Credit,Coffee
-2025-07-24,Uber/Lyft,Uber,10.95,Cash,Weekend Trip
-2025-07-25,restaurants,Date Night Bistro,51.43,Credit,Lunch
-2025-07-26,Dining,Noodle House,22.99,Debit,Dinner With Friends
+2025-07-23,Health,Pharmacy,11.58,Credit,Refill
+2025-07-24,Eating Out,Noodle House,13.93,Credit,Coffee
+2025-07-24,Transport,Uber,10.95,Cash,Weekend Trip
+2025-07-25,Eating Out,Date Night Bistro,51.43,Credit,Lunch
+2025-07-26,Eating Out,Noodle House,22.99,Debit,Dinner With Friends
 2025-07-26,Entertainment,Bookshop,18.33,Cash,Night Out
-2025-07-26,Uber/Lyft,Uber,22.7,Debit,Weekend Trip
-2025-07-27,dining,Cafe Luna,13.48,Credit,Lunch
-2025-07-27,fun,Bowling,19.56,Cash,Subscription
-07/27/2025,Groceries,Trader Joe's,67.66,Debit,Weekly Shop
-2025-07-28,Eating out,Date Night Bistro,87.69,Credit,Coffee
+2025-07-26,Transport,Uber,22.7,Debit,Weekend Trip
+2025-07-27,Eating Out,Cafe Luna,13.48,Credit,Lunch
+2025-07-27,Entertainment,Bowling,19.56,Cash,Subscription
+2025-07-27,Groceries,Trader Joe's,67.66,Debit,Weekly Shop
+2025-07-28,Eating Out,Date Night Bistro,87.69,Credit,Coffee
 2025-07-28,Groceries,Aldi,67.19,Cash,Snacks
-2025-07-29,Dining,Cafe Luna,19.31,Debit,Takeout
-2025-07-30,Dining,Cafe Luna,20.94,Debit,Lunch
-2025-07-31,Eating out,Pizza Place,26.63,Debit,Dinner With Friends
+2025-07-29,Eating Out,Cafe Luna,19.31,Debit,Takeout
+2025-07-30,Eating Out,Cafe Luna,20.94,Debit,Lunch
+2025-07-31,Eating Out,Pizza Place,26.63,Debit,Dinner With Friends
 2025-07-31,Groceries,Aldi,81.87,Debit,Meal Prep
-2025-08-01,rent,Landlord,1450.0,Debit,Monthly Rent
-2025-08-01,dining,Pizza Place,24.38,Debit,Lunch
+2025-08-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-08-01,Eating Out,Pizza Place,24.38,Debit,Lunch
 2025-08-01,Transport,Gas Station,32.51,Cash,Commute
-2025-08-02,Dining,Pizza Place,14.05,Credit,Lunch
+2025-08-02,Eating Out,Pizza Place,14.05,Credit,Lunch
 2025-08-02,Shopping,Clothing Store,80.74,Debit,None
-2025-08-03,medical,Gym,35.0,Credit,Membership
+2025-08-03,Health,Gym,35.0,Credit,Membership
 2025-08-03,Shopping,Amazon,14.79,Credit,Household
 2025-08-03,Transport,Uber,14.36,Cash,Weekend Trip
-2025-08-03,grocery,Aldi,68.83,Credit,Meal Prep
+2025-08-03,Groceries,Aldi,68.83,Credit,Meal Prep
 2025-08-04,Groceries,Corner Market,20.93,Credit,Snacks
 2025-08-05,Utilities,Electric Co,71.67,Debit,Monthly Bill
 2025-08-05,Utilities,Internet,65.0,Credit,Monthly Bill
-08/05/2025,bills,Phone,40.0,Debit,Monthly Bill
-2025-08-06,restaurants,Noodle House,15.81,Debit,Coffee
-2025-08-06,Uber/Lyft,Bike Share,11.18,Debit,None
-2025-08-07,Food,Trader Joe's,31.24,Credit,Snacks
-2025-08-08,dining,Taco Truck,13.91,Cash,Takeout
-08/08/2025,transport,Metro Card,27.6,Debit,None
-2025-08-09,Eating out,Cafe Luna,13.02,Debit,Dinner With Friends
+2025-08-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-08-06,Eating Out,Noodle House,15.81,Debit,Coffee
+2025-08-06,Transport,Bike Share,11.18,Debit,None
+2025-08-07,Groceries,Trader Joe's,31.24,Credit,Snacks
+2025-08-08,Eating Out,Taco Truck,13.91,Cash,Takeout
+2025-08-08,Transport,Metro Card,27.6,Debit,None
+2025-08-09,Eating Out,Cafe Luna,13.02,Debit,Dinner With Friends
 2025-08-09,Shopping,Clothing Store,44.77,Credit,None
-2025-08-10,Dining,Pizza Place,31.43,Credit,Coffee
-2025-08-10,Entertainment ,Bookshop,12.56,Debit,Night Out
-08/10/2025,Shopping,Amazon,54.61,Debit,Household
-2025-08-10,Food,Aldi,59.03,Credit,Weekly Shop
-2025-08-11,Dining,Date Night Bistro,53.9,Credit,Coffee
-08/11/2025,food,Trader Joe's,36.74,Debit,None
-2025-08-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-08-12,Dining,Date Night Bistro,57.37,Credit,Coffee
-2025-08-13,dining,Taco Truck,12.35,Cash,Lunch
+2025-08-10,Eating Out,Pizza Place,31.43,Credit,Coffee
+2025-08-10,Entertainment,Bookshop,12.56,Debit,Night Out
+2025-08-10,Shopping,Amazon,54.61,Debit,Household
+2025-08-10,Groceries,Aldi,59.03,Credit,Weekly Shop
+2025-08-11,Eating Out,Date Night Bistro,53.9,Credit,Coffee
+2025-08-11,Groceries,Trader Joe's,36.74,Debit,None
+2025-08-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-08-12,Eating Out,Date Night Bistro,57.37,Credit,Coffee
+2025-08-13,Eating Out,Taco Truck,12.35,Cash,Lunch
 2025-08-13,Transport,Gas Station,42.2,Credit,None
-2025-08-14,Eating out,Noodle House,19.75,Debit,Takeout
-2025-08-14,travel,Metro Card,29.92,Debit,Weekend Trip
-2025-08-15,transport,Uber,14.06,Debit,None
-2025-08-16,restaurants,Date Night Bistro,89.62,Credit,Dinner With Friends
-2025-08-17,restaurants,Pizza Place,31.06,Credit,Dinner With Friends
-08/17/2025,food,Aldi,38.37,Debit,Snacks
+2025-08-14,Eating Out,Noodle House,19.75,Debit,Takeout
+2025-08-14,Travel,Metro Card,29.92,Debit,Weekend Trip
+2025-08-15,Transport,Uber,14.06,Debit,None
+2025-08-16,Eating Out,Date Night Bistro,89.62,Credit,Dinner With Friends
+2025-08-17,Eating Out,Pizza Place,31.06,Credit,Dinner With Friends
+2025-08-17,Groceries,Aldi,38.37,Debit,Snacks
 2025-08-18,Transport,Metro Card,26.34,Debit,Weekend Trip
-2025-08-18,Food,Aldi,66.58,Debit,Meal Prep
-2025-08-20,Eating out,Date Night Bistro,77.96,Debit,Coffee
-2025-08-21,grocery,Aldi,53.41,Credit,Meal Prep
-2025-08-23,Amazon,Amazon,60.82,Credit,None
-2025-08-24,Dining,Pizza Place,18.28,Credit,Takeout
+2025-08-18,Groceries,Aldi,66.58,Debit,Meal Prep
+2025-08-20,Eating Out,Date Night Bistro,77.96,Debit,Coffee
+2025-08-21,Groceries,Aldi,53.41,Credit,Meal Prep
+2025-08-23,Shopping,Amazon,60.82,Credit,None
+2025-08-24,Eating Out,Pizza Place,18.28,Credit,Takeout
 2025-08-24,Groceries,Aldi,76.59,Cash,Meal Prep
-2025-08-25,dining,Noodle House,18.71,Debit,Dinner With Friends
-2025-08-25,transport,Metro Card,28.58,Credit,None
-2025-08-25,Food,Aldi,50.67,Debit,Weekly Shop
-2025-08-26,dining,Pizza Place,-23.85,Cash,Lunch
-2025-08-27,medical,Pharmacy,34.31,Credit,Checkup
-2025-08-28,dining,Pizza Place,19.35,Debit,Lunch
-08/28/2025,Groceries,Aldi,52.67,Credit,None
-2025-08-29,dining,Cafe Luna,9.15,Cash,Lunch
-2025-08-30,restaurants,Noodle House,17.94,Cash,Coffee
+2025-08-25,Eating Out,Noodle House,18.71,Debit,Dinner With Friends
+2025-08-25,Transport,Metro Card,28.58,Credit,None
+2025-08-25,Groceries,Aldi,50.67,Debit,Weekly Shop
+2025-08-26,Eating Out,Pizza Place,-23.85,Cash,Lunch
+2025-08-27,Health,Pharmacy,34.31,Credit,Checkup
+2025-08-28,Eating Out,Pizza Place,19.35,Debit,Lunch
+2025-08-28,Groceries,Aldi,52.67,Credit,None
+2025-08-29,Eating Out,Cafe Luna,9.15,Cash,Lunch
+2025-08-30,Eating Out,Noodle House,17.94,Cash,Coffee
 2025-08-30,Entertainment,Concert,46.31,Credit,Night Out
-2025-08-30,transport,Uber,24.36,Credit,Weekend Trip
-2025-09-01,rent,Landlord,1450.0,Debit,Monthly Rent
-2025-09-01,restaurants,Cafe Luna,13.53,Credit,Lunch
-09/03/2025,health,Gym,35.0,Credit,Membership
-2025-09-03,Uber/Lyft,Gas Station,31.99,Cash,None
-2025-09-04,dining,Noodle House,18.36,Cash,Takeout
-2025-09-04,travel,Uber,20.16,Debit,Weekend Trip
+2025-08-30,Transport,Uber,24.36,Credit,Weekend Trip
+2025-09-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-09-01,Eating Out,Cafe Luna,13.53,Credit,Lunch
+2025-09-03,Health,Gym,35.0,Credit,Membership
+2025-09-03,Transport,Gas Station,31.99,Cash,None
+2025-09-04,Eating Out,Noodle House,18.36,Cash,Takeout
+2025-09-04,Travel,Uber,20.16,Debit,Weekend Trip
 2025-09-04,Groceries,Corner Market,9.7,Credit,Weekly Shop
-2025-09-05,bills,Electric Co,130.72,Debit,Monthly Bill
-2025-09-05,bills,Internet,65.0,Credit,Monthly Bill
-2025-09-05,bills,Phone,40.0,Debit,Monthly Bill
-2025-09-05,dining,Cafe Luna,13.64,Debit,Coffee
+2025-09-05,Utilities,Electric Co,130.72,Debit,Monthly Bill
+2025-09-05,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-09-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-09-05,Eating Out,Cafe Luna,13.64,Debit,Coffee
 2025-09-05,Transport,Metro Card,26.91,Cash,Weekend Trip
-2025-09-06,restaurants,Taco Truck,15.01,Credit,Lunch
-2025-09-07,Amazon,Amazon,60.41,Debit,Gift
+2025-09-06,Eating Out,Taco Truck,15.01,Credit,Lunch
+2025-09-07,Shopping,Amazon,60.41,Debit,Gift
 2025-09-07,Groceries,Aldi,53.67,Credit,None
-2025-09-08,transport,Metro Card,12.66,Cash,Commute
-2025-09-08,Food,Trader Joe's,34.44,Credit,Weekly Shop
-2025-09-09,restaurants,Date Night Bistro,66.36,Cash,Takeout
-2025-09-09,Transport,Gas Station,,Debit,Commute
-2025-09-11,travel,Uber,9.38,Debit,None
-2025-09-11,food,Aldi,50.14,Cash,Meal Prep
-2025-09-12,fun,Spotify,11.99,Credit,Subscription
-09/12/2025,Dining,Noodle House,20.33,Credit,Coffee
-2025-09-14,Eating out,Noodle House,17.38,Cash,Takeout
-2025-09-14,grocery,Whole Foods,111.97,Cash,None
-2025-09-15,grocery,Aldi,37.12,Cash,Snacks
-2025-09-17,Dining,Noodle House,14.72,Cash,Dinner With Friends
-2025-09-19,Uber/Lyft,Metro Card,29.43,Cash,Weekend Trip
-2025-09-21,Entertainment ,Bookshop,21.01,Debit,None
-2025-09-21,shopping,Clothing Store,33.93,Cash,Household
-2025-09-22,Eating out,Taco Truck,10.26,Debit,Lunch
-2025-09-22,transport,Uber,9.09,Credit,Weekend Trip
-09/23/2025,travel,Uber,17.16,Debit,Weekend Trip
-2025-09-25,health,Pharmacy,27.81,Cash,Refill
-2025-09-25,Food,Trader Joe's,36.69,Cash,Weekly Shop
-2025-09-26,dining,Noodle House,18.94,Cash,Dinner With Friends
-2025-09-26,transport,Bike Share,11.35,Debit,Weekend Trip
-2025-09-27,Dining,Cafe Luna,15.06,Cash,Lunch
-2025-09-28,Dining,Cafe Luna,9.51,Debit,Lunch
+2025-09-08,Transport,Metro Card,12.66,Cash,Commute
+2025-09-08,Groceries,Trader Joe's,34.44,Credit,Weekly Shop
+2025-09-09,Eating Out,Date Night Bistro,66.36,Cash,Takeout
+2025-09-11,Travel,Uber,9.38,Debit,None
+2025-09-11,Groceries,Aldi,50.14,Cash,Meal Prep
+2025-09-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-09-12,Eating Out,Noodle House,20.33,Credit,Coffee
+2025-09-14,Eating Out,Noodle House,17.38,Cash,Takeout
+2025-09-14,Groceries,Whole Foods,111.97,Cash,None
+2025-09-15,Groceries,Aldi,37.12,Cash,Snacks
+2025-09-17,Eating Out,Noodle House,14.72,Cash,Dinner With Friends
+2025-09-19,Transport,Metro Card,29.43,Cash,Weekend Trip
+2025-09-21,Entertainment,Bookshop,21.01,Debit,None
+2025-09-21,Shopping,Clothing Store,33.93,Cash,Household
+2025-09-22,Eating Out,Taco Truck,10.26,Debit,Lunch
+2025-09-22,Transport,Uber,9.09,Credit,Weekend Trip
+2025-09-23,Travel,Uber,17.16,Debit,Weekend Trip
+2025-09-25,Health,Pharmacy,27.81,Cash,Refill
+2025-09-25,Groceries,Trader Joe's,36.69,Cash,Weekly Shop
+2025-09-26,Eating Out,Noodle House,18.94,Cash,Dinner With Friends
+2025-09-26,Transport,Bike Share,11.35,Debit,Weekend Trip
+2025-09-27,Eating Out,Cafe Luna,15.06,Cash,Lunch
+2025-09-28,Eating Out,Cafe Luna,9.51,Debit,Lunch
 2025-09-28,Groceries,Trader Joe's,60.78,Debit,Meal Prep
-2025-09-29,Dining,Pizza Place,16.47,Credit,Lunch
-2025-09-29,food,Whole Foods,106.52,Cash,Snacks
-09/30/2025,restaurants,Noodle House,15.32,Cash,Coffee
+2025-09-29,Eating Out,Pizza Place,16.47,Credit,Lunch
+2025-09-29,Groceries,Whole Foods,106.52,Cash,Snacks
+2025-09-30,Eating Out,Noodle House,15.32,Cash,Coffee
 2025-10-01,Housing,Landlord,1450.0,Debit,Monthly Rent
-2025-10-01,restaurants,Cafe Luna,15.16,Cash,Lunch
-2025-10-02,Eating out,Taco Truck,15.12,Cash,Takeout
-2025-10-02,transport,Gas Station,52.04,Credit,Commute
-2025-10-03,health,Gym,35.0,Credit,Membership
-2025-10-03,dining,Taco Truck,10.28,Debit,Coffee
+2025-10-01,Eating Out,Cafe Luna,15.16,Cash,Lunch
+2025-10-02,Eating Out,Taco Truck,15.12,Cash,Takeout
+2025-10-02,Transport,Gas Station,52.04,Credit,Commute
+2025-10-03,Health,Gym,35.0,Credit,Membership
+2025-10-03,Eating Out,Taco Truck,10.28,Debit,Coffee
 2025-10-03,Transport,Gas Station,49.6,Credit,None
-2025-10-04,Shopping,Clothing Store,,Debit,None
 2025-10-05,Utilities,Electric Co,112.8,Debit,Monthly Bill
 2025-10-05,Utilities,Internet,65.0,Credit,Monthly Bill
 2025-10-05,Utilities,Phone,40.0,Debit,Monthly Bill
-10/05/2025,Eating out,Taco Truck,12.08,Cash,Lunch
+2025-10-05,Eating Out,Taco Truck,12.08,Cash,Lunch
 2025-10-05,Groceries,Aldi,92.35,Credit,Meal Prep
-2025-10-06,grocery,Aldi,84.59,Debit,Weekly Shop
-2025-10-07,restaurants,Noodle House,14.65,Cash,Coffee
-10/07/2025,transport,Uber,19.46,Debit,Weekend Trip
+2025-10-06,Groceries,Aldi,84.59,Debit,Weekly Shop
+2025-10-07,Eating Out,Noodle House,14.65,Cash,Coffee
+2025-10-07,Transport,Uber,19.46,Debit,Weekend Trip
 2025-10-08,Transport,Uber,15.01,Debit,Weekend Trip
-2025-10-08,medical,Gym,35.0,Credit,Refill
-2025-10-09,Food,Aldi,84.52,Debit,Snacks
-2025-10-11,Entertainment ,Bookshop,15.99,Cash,Night Out
-2025-10-11,shopping,Amazon,49.21,Credit,Household
-2025-10-12,Entertainment ,Spotify,11.99,Credit,Subscription
-2025-10-12,dining,Cafe Luna,9.69,Credit,Coffee
-2025-10-12,Entertainment ,Spotify,11.99,Debit,Night Out
+2025-10-08,Health,Gym,35.0,Credit,Refill
+2025-10-09,Groceries,Aldi,84.52,Debit,Snacks
+2025-10-11,Entertainment,Bookshop,15.99,Cash,Night Out
+2025-10-11,Shopping,Amazon,49.21,Credit,Household
+2025-10-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-10-12,Eating Out,Cafe Luna,9.69,Credit,Coffee
+2025-10-12,Entertainment,Spotify,11.99,Debit,Night Out
 2025-10-12,Groceries,Trader Joe's,77.72,Debit,Snacks
-2025-10-13,restaurants,Date Night Bistro,82.75,Credit,Coffee
-2025-10-13,Uber/Lyft,Gas Station,30.8,Credit,None
-2025-10-16,Eating out,Noodle House,23.2,Credit,Takeout
-2025-10-16,grocery,Trader Joe's,43.11,Credit,Meal Prep
-2025-10-17,travel,Metro Card,19.04,Credit,Weekend Trip
-10/18/2025,Dining,Taco Truck,11.96,Credit,Lunch
-2025-10-18,Entertainment ,Bowling,22.4,Cash,Subscription
-2025-10-19,restaurants,Taco Truck,9.23,Debit,Coffee
-2025-10-19,shopping,Amazon,54.34,Debit,Gift
-2025-10-20,dining,Pizza Place,14.23,Credit,Takeout
-2025-10-20,Food,Whole Foods,83.73,Credit,Snacks
+2025-10-13,Eating Out,Date Night Bistro,82.75,Credit,Coffee
+2025-10-13,Transport,Gas Station,30.8,Credit,None
+2025-10-16,Eating Out,Noodle House,23.2,Credit,Takeout
+2025-10-16,Groceries,Trader Joe's,43.11,Credit,Meal Prep
+2025-10-17,Travel,Metro Card,19.04,Credit,Weekend Trip
+2025-10-18,Eating Out,Taco Truck,11.96,Credit,Lunch
+2025-10-18,Entertainment,Bowling,22.4,Cash,Subscription
+2025-10-19,Eating Out,Taco Truck,9.23,Debit,Coffee
+2025-10-19,Shopping,Amazon,54.34,Debit,Gift
+2025-10-20,Eating Out,Pizza Place,14.23,Credit,Takeout
+2025-10-20,Groceries,Whole Foods,83.73,Credit,Snacks
 2025-10-21,Transport,Bike Share,9.88,Debit,Commute
-10/22/2025,restaurants,Pizza Place,18.59,Debit,Takeout
-2025-10-23,grocery,Whole Foods,84.01,Cash,Weekly Shop
-2025-10-24,Eating out,Taco Truck,10.12,Debit,Coffee
-2025-10-24,travel,Metro Card,19.22,Credit,Commute
-2025-10-25,Entertainment ,Bowling,27.8,Credit,None
-2025-10-25,shopping,Clothing Store,49.79,Debit,Household
+2025-10-22,Eating Out,Pizza Place,18.59,Debit,Takeout
+2025-10-23,Groceries,Whole Foods,84.01,Cash,Weekly Shop
+2025-10-24,Eating Out,Taco Truck,10.12,Debit,Coffee
+2025-10-24,Travel,Metro Card,19.22,Credit,Commute
+2025-10-25,Entertainment,Bowling,27.8,Credit,None
+2025-10-25,Shopping,Clothing Store,49.79,Debit,Household
 2025-10-26,Groceries,Aldi,88.9,Cash,Snacks
-2025-10-27,restaurants,Date Night Bistro,69.21,Debit,Lunch
-10/27/2025,grocery,Aldi,67.27,Debit,None
+2025-10-27,Eating Out,Date Night Bistro,69.21,Debit,Lunch
+2025-10-27,Groceries,Aldi,67.27,Debit,None
 2025-10-28,Transport,Metro Card,15.56,Credit,Weekend Trip
-2025-10-29,Dining,Noodle House,22.08,Cash,Coffee
+2025-10-29,Eating Out,Noodle House,22.08,Cash,Coffee
 2025-10-29,Transport,Metro Card,26.41,Credit,Commute
-10/29/2025,medical,Clinic Copay,28.71,Cash,None
-2025-10-30,Food,Trader Joe's,55.74,Debit,Snacks
-2025-10-31,restaurants,Pizza Place,30.46,Debit,Takeout
-2025-10-31,transport,Uber,19.21,Cash,Commute
-2025-11-01,rent,Landlord,1450.0,Debit,Monthly Rent
-2025-11-01,Shopping ,Target,53.16,Credit,Gift
+2025-10-29,Health,Clinic Copay,28.71,Cash,None
+2025-10-30,Groceries,Trader Joe's,55.74,Debit,Snacks
+2025-10-31,Eating Out,Pizza Place,30.46,Debit,Takeout
+2025-10-31,Transport,Uber,19.21,Cash,Commute
+2025-11-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-11-01,Shopping,Target,53.16,Credit,Gift
 2025-11-02,Groceries,Trader Joe's,43.11,Cash,Weekly Shop
-2025-11-03,medical,Gym,35.0,Credit,Membership
-2025-11-03,Dining,Cafe Luna,17.18,Cash,Lunch
-2025-11-03,transport,Uber,20.71,Credit,Weekend Trip
-2025-11-03,food,Aldi,35.29,Credit,Snacks
-2025-11-04,dining,Pizza Place,19.97,Debit,Coffee
-2025-11-04,Uber/Lyft,Uber,12.34,Debit,None
-2025-11-05,bills,Electric Co,107.7,Debit,Monthly Bill
-11/05/2025,Utilities,Internet,65.0,Credit,Monthly Bill
+2025-11-03,Health,Gym,35.0,Credit,Membership
+2025-11-03,Eating Out,Cafe Luna,17.18,Cash,Lunch
+2025-11-03,Transport,Uber,20.71,Credit,Weekend Trip
+2025-11-03,Groceries,Aldi,35.29,Credit,Snacks
+2025-11-04,Eating Out,Pizza Place,19.97,Debit,Coffee
+2025-11-04,Transport,Uber,12.34,Debit,None
+2025-11-05,Utilities,Electric Co,107.7,Debit,Monthly Bill
+2025-11-05,Utilities,Internet,65.0,Credit,Monthly Bill
 2025-11-05,Utilities,Phone,40.0,Debit,Monthly Bill
-2025-11-06,Food,Aldi,88.64,Credit,None
-2025-11-08,Dining,Noodle House,13.45,Credit,Takeout
-2025-11-09,restaurants,Noodle House,19.14,Credit,Dinner With Friends
+2025-11-06,Groceries,Aldi,88.64,Credit,None
+2025-11-08,Eating Out,Noodle House,13.45,Credit,Takeout
+2025-11-09,Eating Out,Noodle House,19.14,Credit,Dinner With Friends
 2025-11-09,Transport,Uber,10.19,Credit,Weekend Trip
 2025-11-09,Groceries,Whole Foods,71.05,Debit,None
-2025-11-10,restaurants,Pizza Place,23.38,Cash,Takeout
-2025-11-10,Uber/Lyft,Uber,26.07,Credit,Commute
+2025-11-10,Eating Out,Pizza Place,23.38,Cash,Takeout
+2025-11-10,Transport,Uber,26.07,Credit,Commute
 2025-11-10,Groceries,Aldi,87.06,Debit,None
-2025-11-11,restaurants,Cafe Luna,9.08,Credit,Takeout
-2025-11-11,Uber/Lyft,Uber,11.25,Debit,Commute
-2025-11-12,fun,Spotify,11.99,Credit,Subscription
-2025-11-13,Dining,Cafe Luna,16.29,Credit,Dinner With Friends
+2025-11-11,Eating Out,Cafe Luna,9.08,Credit,Takeout
+2025-11-11,Transport,Uber,11.25,Debit,Commute
+2025-11-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-11-13,Eating Out,Cafe Luna,16.29,Credit,Dinner With Friends
 2025-11-13,Transport,Metro Card,30.45,Debit,None
-2025-11-14,transport,Uber,17.96,Credit,Weekend Trip
-2025-11-15,shopping,Amazon,26.02,Cash,None
-2025-11-15,travel,Metro Card,14.64,Credit,Commute
-11/16/2025,Dining,Cafe Luna,20.62,Credit,Lunch
-2025-11-16,food,Corner Market,19.54,Credit,None
-2025-11-17,Eating out,Noodle House,15.67,Debit,Coffee
-2025-11-17,Groceries,,43.03,Credit,None
-11/20/2025,Eating out,Cafe Luna,17.16,Debit,Takeout
-2025-11-20,grocery,Trader Joe's,57.36,Debit,Meal Prep
-2025-11-22,restaurants,Cafe Luna,12.29,Debit,Takeout
-2025-11-23,Dining,Cafe Luna,11.0,Cash,Coffee
-11/23/2025,Shopping,Target,26.28,Debit,None
-2025-11-23,Uber/Lyft,Metro Card,12.76,Debit,Weekend Trip
+2025-11-14,Transport,Uber,17.96,Credit,Weekend Trip
+2025-11-15,Shopping,Amazon,26.02,Cash,None
+2025-11-15,Travel,Metro Card,14.64,Credit,Commute
+2025-11-16,Eating Out,Cafe Luna,20.62,Credit,Lunch
+2025-11-16,Groceries,Corner Market,19.54,Credit,None
+2025-11-17,Eating Out,Noodle House,15.67,Debit,Coffee
+2025-11-17,Groceries,Unknown,43.03,Credit,None
+2025-11-20,Eating Out,Cafe Luna,17.16,Debit,Takeout
+2025-11-20,Groceries,Trader Joe's,57.36,Debit,Meal Prep
+2025-11-22,Eating Out,Cafe Luna,12.29,Debit,Takeout
+2025-11-23,Eating Out,Cafe Luna,11.0,Cash,Coffee
+2025-11-23,Shopping,Target,26.28,Debit,None
+2025-11-23,Transport,Metro Card,12.76,Debit,Weekend Trip
 2025-11-23,Groceries,Corner Market,21.94,Debit,None
-2025-11-24,grocery,Trader Joe's,54.82,Credit,Snacks
-2025-11-25,dining,Pizza Place,31.56,Cash,Lunch
+2025-11-24,Groceries,Trader Joe's,54.82,Credit,Snacks
+2025-11-25,Eating Out,Pizza Place,31.56,Cash,Lunch
 2025-11-25,Transport,Uber,18.84,Debit,None
 2025-11-27,Transport,Bike Share,7.64,Credit,Weekend Trip
-2025-11-27,Food,Aldi,52.66,Credit,Weekly Shop
-2025-11-30,Food,Aldi,39.05,Credit,Snacks
-2025-12-01,rent,Landlord,1450.0,Debit,Monthly Rent
-12/01/2025,Eating out,Taco Truck,10.74,Debit,Lunch
-2025-12-01,grocery,Whole Foods,61.53,Debit,Snacks
-2025-12-02,Eating out,Cafe Luna,-11.21,Credit,Dinner With Friends
+2025-11-27,Groceries,Aldi,52.66,Credit,Weekly Shop
+2025-11-30,Groceries,Aldi,39.05,Credit,Snacks
+2025-12-01,Housing,Landlord,1450.0,Debit,Monthly Rent
+2025-12-01,Eating Out,Taco Truck,10.74,Debit,Lunch
+2025-12-01,Groceries,Whole Foods,61.53,Debit,Snacks
+2025-12-02,Eating Out,Cafe Luna,-11.21,Credit,Dinner With Friends
 2025-12-02,Transport,Bike Share,9.41,Debit,None
 2025-12-03,Health,Gym,35.0,Credit,Membership
-2025-12-03,restaurants,Noodle House,26.37,Debit,Takeout
-2025-12-04,Dining,Pizza Place,14.97,Debit,Coffee
-2025-12-04,travel,Uber,12.32,Credit,Commute
+2025-12-03,Eating Out,Noodle House,26.37,Debit,Takeout
+2025-12-04,Eating Out,Pizza Place,14.97,Debit,Coffee
+2025-12-04,Travel,Uber,12.32,Credit,Commute
 2025-12-04,Health,Gym,35.0,Credit,Checkup
-2025-12-04,food,Aldi,67.91,Cash,Snacks
+2025-12-04,Groceries,Aldi,67.91,Cash,Snacks
 2025-12-05,Utilities,Electric Co,94.02,Debit,Monthly Bill
 2025-12-05,Utilities,Internet,65.0,Credit,Monthly Bill
-2025-12-05,bills,Phone,40.0,Debit,Monthly Bill
-2025-12-05,Eating out,Noodle House,21.14,Debit,Dinner With Friends
-2025-12-06,restaurants,Taco Truck,14.17,Debit,Coffee
-2025-12-06,fun,Bookshop,23.35,Cash,None
-2025-12-07,Dining,Pizza Place,15.08,Debit,Takeout
-2025-12-07,fun,Spotify,11.99,Credit,None
-2025-12-07,Food,Trader Joe's,58.0,Cash,Snacks
-2025-12-08,Eating out,Taco Truck,12.13,Debit,Lunch
+2025-12-05,Utilities,Phone,40.0,Debit,Monthly Bill
+2025-12-05,Eating Out,Noodle House,21.14,Debit,Dinner With Friends
+2025-12-06,Eating Out,Taco Truck,14.17,Debit,Coffee
+2025-12-06,Entertainment,Bookshop,23.35,Cash,None
+2025-12-07,Eating Out,Pizza Place,15.08,Debit,Takeout
+2025-12-07,Entertainment,Spotify,11.99,Credit,None
+2025-12-07,Groceries,Trader Joe's,58.0,Cash,Snacks
+2025-12-08,Eating Out,Taco Truck,12.13,Debit,Lunch
 2025-12-08,Groceries,Corner Market,15.17,Debit,None
-2025-12-09,dining,Noodle House,16.66,Credit,Takeout
-2025-12-10,restaurants,Pizza Place,31.38,Credit,Coffee
-2025-12-10,transport,Metro Card,17.03,Debit,None
+2025-12-09,Eating Out,Noodle House,16.66,Credit,Takeout
+2025-12-10,Eating Out,Pizza Place,31.38,Credit,Coffee
+2025-12-10,Transport,Metro Card,17.03,Debit,None
 2025-12-10,Health,Pharmacy,31.72,Debit,None
-2025-12-11,dining,Date Night Bistro,49.68,Debit,Dinner With Friends
-12/11/2025,transport,Metro Card,24.53,Credit,Commute
-2025-12-12,fun,Spotify,11.99,Credit,Subscription
-2025-12-12,restaurants,Taco Truck,15.54,Credit,Coffee
+2025-12-11,Eating Out,Date Night Bistro,49.68,Debit,Dinner With Friends
+2025-12-11,Transport,Metro Card,24.53,Credit,Commute
+2025-12-12,Entertainment,Spotify,11.99,Credit,Subscription
+2025-12-12,Eating Out,Taco Truck,15.54,Credit,Coffee
 2025-12-14,Shopping,Target,35.55,Cash,Gift
-2025-12-14,travel,Gas Station,50.89,Cash,Weekend Trip
-2025-12-14,food,Trader Joe's,67.28,Debit,Meal Prep
-2025-12-15,food,Whole Foods,74.97,Credit,Snacks
-2025-12-16,Eating out,Cafe Luna,16.75,Cash,Takeout
-2025-12-17,dining,Pizza Place,25.12,Credit,Takeout
-2025-12-17,Uber/Lyft,Metro Card,22.7,Debit,Commute
-2025-12-18,Uber/Lyft,Metro Card,21.87,Debit,Weekend Trip
+2025-12-14,Travel,Gas Station,50.89,Cash,Weekend Trip
+2025-12-14,Groceries,Trader Joe's,67.28,Debit,Meal Prep
+2025-12-15,Groceries,Whole Foods,74.97,Credit,Snacks
+2025-12-16,Eating Out,Cafe Luna,16.75,Cash,Takeout
+2025-12-17,Eating Out,Pizza Place,25.12,Credit,Takeout
+2025-12-17,Transport,Metro Card,22.7,Debit,Commute
+2025-12-18,Transport,Metro Card,21.87,Debit,Weekend Trip
 2025-12-18,Groceries,Trader Joe's,29.65,Credit,Weekly Shop
-2025-12-19,Dining,Noodle House,14.91,Debit,Takeout
-2025-12-20,travel,Uber,23.65,Credit,None
+2025-12-19,Eating Out,Noodle House,14.91,Debit,Takeout
+2025-12-20,Travel,Uber,23.65,Credit,None
 2025-12-21,Shopping,Amazon,51.47,Credit,None
-2025-12-21,grocery,Whole Foods,109.09,Debit,Snacks
-12/22/2025,restaurants,Cafe Luna,11.87,Debit,Lunch
-2025-12-22,Uber/Lyft,Gas Station,40.83,Credit,None
-2025-12-22,Food,Trader Joe's,45.6,Debit,Weekly Shop
-12/24/2025,restaurants,Date Night Bistro,80.49,Debit,Takeout
-2025-12-24,travel,Uber,13.76,Debit,Commute
-2025-12-25,Eating out,Pizza Place,23.79,Debit,Takeout
-2025-12-25,Food,Trader Joe's,51.37,Credit,Meal Prep
-2025-12-28,dining,Cafe Luna,21.54,Credit,Coffee
-12/28/2025,Entertainment,Spotify,11.99,Cash,Night Out
+2025-12-21,Groceries,Whole Foods,109.09,Debit,Snacks
+2025-12-22,Eating Out,Cafe Luna,11.87,Debit,Lunch
+2025-12-22,Transport,Gas Station,40.83,Credit,None
+2025-12-22,Groceries,Trader Joe's,45.6,Debit,Weekly Shop
+2025-12-24,Eating Out,Date Night Bistro,80.49,Debit,Takeout
+2025-12-24,Travel,Uber,13.76,Debit,Commute
+2025-12-25,Eating Out,Pizza Place,23.79,Debit,Takeout
+2025-12-25,Groceries,Trader Joe's,51.37,Credit,Meal Prep
+2025-12-28,Eating Out,Cafe Luna,21.54,Credit,Coffee
+2025-12-28,Entertainment,Spotify,11.99,Cash,Night Out
 2025-12-28,Transport,Bike Share,5.43,Credit,Commute
-12/28/2025,Food,Trader Joe's,71.49,Credit,None
-2025-12-29,Dining,,14.24,Debit,Dinner With Friends
-2025-12-29,Food,Whole Foods,105.76,Credit,Weekly Shop
-2025-12-30,medical,Pharmacy,22.03,Credit,Refill
-2025-12-31,dining,Pizza Place,24.26,Credit,Dinner With Friends
+2025-12-28,Groceries,Trader Joe's,71.49,Credit,None
+2025-12-29,Eating Out,Unknown,14.24,Debit,Dinner With Friends
+2025-12-29,Groceries,Whole Foods,105.76,Credit,Weekly Shop
+2025-12-30,Health,Pharmacy,22.03,Credit,Refill
+2025-12-31,Eating Out,Pizza Place,24.26,Credit,Dinner With Friends
